@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Saud Ahmad",
+        "image": "https://i.pinimg.com/originals/63/b0/c0/63b0c0fca2da8ac665263b814bb7ffb3.jpg",
+        "about": "Nodejs developer",
+        "socials": [
+            {
+                "username": "@saud-shah-080368214",
+                "link": "https://www.linkedin.com/in/saud-shah-080368214/",
+                "service": "linkedin"
+            },
+            {
+                "username": "@saud-ahmad24",
+                "link": "https://www.github.com/saud-ahmad24",
+                "service": "github"
+            },
+            {
+                "username": "+91 88661 86841",
+                "link": "tel:918866186841",
+                "service": "phone"
+            },
+            {
+                "username": "saud963361@gmail.com",
+                "link": "mailto:saud963361@gmail.com",
+                "service": "mail"
+            }
+        ]
+    }
+]
